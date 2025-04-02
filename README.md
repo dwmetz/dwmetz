@@ -11,9 +11,9 @@ I'm a security researcher at Magnet Forensics, and blog at [Baker Street Forensi
 
 📫 How to reach me:
 
-> Bluesky: @dwmetz.bsky.social
-> Mastodon: https://infosec.exchange/@dwmetz
-> LinkedIn: https://www.linkedin.com/in/dwmetz/
+>- Bluesky: @dwmetz.bsky.social
+>- Mastodon: https://infosec.exchange/@dwmetz
+>- LinkedIn: https://www.linkedin.com/in/dwmetz/
 
 ### Presentations:
 > Slide decks are available in the [Presnetations](https://github.com/dwmetz/Presentations) repo
