@@ -5,7 +5,7 @@ I'm a security researcher at Magnet Forensics, and blog at [Baker Street Forensi
 
 - 🫆 Digital Forensics & 👾 Malware Analysis Enthusiast  
 - 🛠 Author of [CyberPipe](https://github.com/dwmetz/CyberPipe), [MalChela](https://github.com/dwmetz/MalChela), [Magnet Response PowerShell](https://github.com/MagnetForensics/Magnet-RESPONSE-PowerShell), and others. 
-- 🦀 PowerShell fanboy that's not got the Rust bug
+- 🦀 PowerShell fanboy that's now got the Rust bug
 - 🥃 Bourbon Whisperer
 
 
