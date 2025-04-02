@@ -9,7 +9,8 @@ I'm a security researcher at Magnet Forensics, and blog at [Baker Street Forensi
 - 🥃 Bourbon Whisperer
 
 
-- 📫 How to reach me:
+📫 How to reach me:
+
 > Bluesky: @dwmetz.bsky.social
 > Mastodon: https://infosec.exchange/@dwmetz
 > LinkedIn: https://www.linkedin.com/in/dwmetz/
