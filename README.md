@@ -20,7 +20,7 @@ I also co-host the [Cyber Unpacked](https://www.magnetforensics.com/cyber-unpack
 ### Presentations:
 > Slide decks are available in the [Presentations](https://github.com/dwmetz/Presentations) repo
 
-
+---
 🚀 Check out my projects below! 
 <!--
 **dwmetz/dwmetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
