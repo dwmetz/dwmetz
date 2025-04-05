@@ -16,9 +16,7 @@ I'm a security researcher at Magnet Forensics, blogger at [Baker Street Forensic
 >- LinkedIn: [https://www.linkedin.com/in/dwmetz/](https://www.linkedin.com/in/dwmetz/)
 
 ---
-*mega* 
-
- **Presentations:**
+:mega: **Presentations:**
 > Slide decks are available in the [Presentations](https://github.com/dwmetz/Presentations) repo
 
 ---
