@@ -1,5 +1,4 @@
-## Hello, Friend 👋
-Welcome to my GitHub profile!  
+## Welcome-ish 👋
 
 I'm a security researcher at Magnet Forensics, blogger at [Baker Street Forensics](https://bakerstreetforensics.com), and co-host the [Cyber Unpacked](https://www.magnetforensics.com/cyber-unpacked/) webcast.
 
@@ -17,7 +16,7 @@ I'm a security researcher at Magnet Forensics, blogger at [Baker Street Forensic
 
 ---
 ## Presentations: 
-> Slide decks are available in the [Presentations](https://github.com/dwmetz/Presentations) repo
+> 🎆 Slide decks are available in the [Presentations](https://github.com/dwmetz/Presentations) repo
 
 ---
 🚀 Check out my projects below! 
