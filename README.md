@@ -3,7 +3,7 @@
 I'm a security researcher at Magnet Forensics, blogger at [Baker Street Forensics](https://bakerstreetforensics.com), and co-host the [Cyber Unpacked](https://www.magnetforensics.com/cyber-unpacked/) webcast.
 
 - 🫆 Digital Forensics & 👾 Malware Analysis Enthusiast  
-- 🛠 Author of [CyberPipe](https://github.com/dwmetz/CyberPipe), [CyberPipe-Timeliner](https://github.com/dwmetz/CyberPipe-Timeliner), [MalChela](https://github.com/dwmetz/MalChela), [Toby](https://github.com/dwmetz/Toby), [Crabwise](https://github.com/dwmetz/Crabwise), [Magnet Response PowerShell](https://github.com/MagnetForensics/Magnet-RESPONSE-PowerShell), and others. 
+- 🛠 Author of [CyberPipe](https://github.com/dwmetz/CyberPipe), [CyberPipe-Timeliner](https://github.com/dwmetz/CyberPipe-Timeliner), [MalChela](https://github.com/dwmetz/MalChela), [Toby](https://github.com/dwmetz/Toby), [Crabwise](https://github.com/dwmetz/Crabwise), [FOSSOR](https://github.com/dwmetz/FOSSOR/), [Magnet Response PowerShell](https://github.com/MagnetForensics/Magnet-RESPONSE-PowerShell), and others. 
 - 🦀 PowerShell fanboy that's now got the Rust bug
 - 🥃 Bourbon Whisperer
 
