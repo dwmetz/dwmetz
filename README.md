@@ -17,8 +17,10 @@ I'm a Senior Security Forensics Specialist at Magnet Forensics, adjunct instruct
 
 ---
 ### MalChela Video Series:
-> 📺 Episodes covering malware analysis, YARA, and more — [watch on YouTube](https://www.youtube.com/@bakerstreetforensics)
-   
+> 📺 Episodes covering installation, static analysis, string extraction, 
+YARA rule generation, and network forensics — 
+[watch the full playlist on YouTube](https://www.youtube.com/playlist?list=PL__KsCEzV6Ae5jA-YObTmvZEKuu-rkON6)
+
 ---
 ### Presentations: 
 > 🎆 Slide decks are available in the [Presentations](https://github.com/dwmetz/Presentations) repo
