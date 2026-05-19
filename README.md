@@ -4,7 +4,7 @@ I'm a Senior Security Forensics Specialist at Magnet Forensics, adjunct instruct
 
 
 - 🫆 Digital Forensics & 👾 Malware Analysis Enthusiast  
-- 🛠 Author of [CyberPipe](https://github.com/dwmetz/CyberPipe), [CyberPipe-Timeliner](https://github.com/dwmetz/CyberPipe-Timeliner), [MalChela](https://github.com/dwmetz/MalChela), [Toby](https://github.com/dwmetz/Toby), [Crabwise](https://github.com/dwmetz/Crabwise), [FOSSOR](https://github.com/dwmetz/FOSSOR/), [Magnet Response PowerShell](https://github.com/MagnetForensics/Magnet-RESPONSE-PowerShell), and others. 
+- 🛠 Author of [CyberPipe](https://github.com/dwmetz/CyberPipe), [CyberPipe-Timeliner](https://github.com/dwmetz/CyberPipe-Timeliner), [MalChela](https://github.com/dwmetz/MalChela), [Toby](https://github.com/dwmetz/Toby), [Crabwise](https://github.com/dwmetz/Crabwise), [FOSSOR](https://github.com/dwmetz/FOSSOR/), [Magnet Response PowerShell](https://github.com/MagnetForensics/Magnet-RESPONSE-PowerShell), [Mind Palace](https://github.com/dwmetz/MindPalace) and others. 
 - 🦀 PowerShell → Python → Rust (no regrets)
 - 🥃 Bourbon Whisperer
 
